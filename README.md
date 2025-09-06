@@ -5,3 +5,4 @@ The project involves: • Implementing several machine learning algorithms from 
 xyz
 
 real event got triggered
+.
